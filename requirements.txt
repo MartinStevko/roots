@@ -1,6 +1,7 @@
 akismet==0.2.0
 Django==1.7.8
 django-allauth==0.21.0
+django-analytics==0.0.1
 django-appconf==0.6
 django-apptemplates==1.0
 django-author==0.1
@@ -15,6 +16,8 @@ django-debug-toolbar-template-timings==0.6.4
 django-extensions==1.5.5
 django-filebrowser==3.5.7
 django-fluent-comments==1.0.2
+django-ganalytics==0.4
+django-geckoboard==2.0.0
 django-grappelli==2.6.5
 django-jquery==1.9.1
 django-jquery-lightbox==2.6
